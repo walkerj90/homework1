@@ -11,7 +11,7 @@ index.html
 assets > images >brand-awareness.png; cost-management.png; digital-marketing-meeting.jpg; lead-generation.png; online-reputation-management.jpg; 
 			search-engine-optimization.jpg; social-media-marketing.jpg
 
-total size: 95.4 MB 54 files; 33 folders
+total size: 95.4 MB
 
 Description:
 This homework assignment was done with the intent to clean up as much of the css and HTML properties as possible. And to make it easier for someone with a screen reader or some other accesibility tool they were using to be able to access this website and make some sense of what was on it or at least make it easier.
